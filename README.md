@@ -5,7 +5,7 @@ ____
 # План проекта
 :white_check_mark: Меню    
 :white_check_mark: Реакция на неизвестную команду   
-:white_check_mark: Простой калюкуляток /calc  
+:white_check_mark: Простой калькуляток /calc  
 :negative_squared_cross_mark: Какие-нибудь игры  
 :black_square_button: Прогноз погоды. Кнопка есть но остальное мне лень   
 ____
